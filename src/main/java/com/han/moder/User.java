@@ -19,4 +19,5 @@ public class User implements Serializable {
     private String address;
     private String phone;
     private String lover;
+    private String family;
 }
